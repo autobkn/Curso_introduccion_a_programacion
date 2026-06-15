@@ -1,1 +1,1 @@
-# Curso_introduccinn_a_programacion
+# Curso_introduccion_a_programacion
